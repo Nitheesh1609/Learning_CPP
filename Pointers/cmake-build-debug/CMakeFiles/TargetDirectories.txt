@@ -1,0 +1,3 @@
+/Users/nitheesh/CLionProjects/ModernC++UdemyClass/Pointers/cmake-build-debug/CMakeFiles/Pointers.dir
+/Users/nitheesh/CLionProjects/ModernC++UdemyClass/Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nitheesh/CLionProjects/ModernC++UdemyClass/Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

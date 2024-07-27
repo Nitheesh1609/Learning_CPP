@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Concurrency",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Concurrency::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Concurrency-Debug-c6083a9a1f54b7d8595e.json",
+					"name" : "Concurrency",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binarysemaphore::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binarysemaphore-Debug-e28cc333584542e3e59a.json",
+					"name" : "binarysemaphore",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "conditionvaribale::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-conditionvaribale-Debug-5f3e0a814d69f42728cc.json",
+					"name" : "conditionvaribale",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tasks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tasks-Debug-38f18743bbb697a743a3.json",
+					"name" : "tasks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "threadret::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-threadret-Debug-14f0c7b10f93cb2c8b2a.json",
+					"name" : "threadret",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nitheesh/CLionProjects/ModernC++UdemyClass/Concurrency/cmake-build-debug",
+		"source" : "/Users/nitheesh/CLionProjects/ModernC++UdemyClass/Concurrency"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
